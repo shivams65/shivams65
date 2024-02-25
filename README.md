@@ -23,7 +23,7 @@ Let's connect and build secure, scalable, and resilient cloud solutions together
 
 - **Containers & Orchestration**: Docker, Kubernetes
 - **Infrastructure as Code**: Terraform, AWS CloudFormation
-- **CI/CD**: Jenkins, GitLab CI/CD, GitHub Actions
+- **CI/CD**: Jenkins, GitLab CI/CD, GitHub Actions, ArgoCD
 - **Monitoring & Logging**: Prometheus, Grafana
 - **Version Control**: Git
 - **Security**: Sonarqube, Tfsec, Trivy, TruffleHog
