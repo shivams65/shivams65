@@ -15,8 +15,8 @@ Let's connect and build secure, scalable, and resilient cloud solutions together
 ## About Me
 
 - 🔭 I'm currently working on enhancing CI/CD pipelines for scalable microservices architecture.
-- 🌱 I'm continuously learning and exploring new technologies in the DevOps ecosystem.
-- 💬 Ask me about Kubernetes, Docker, Terraform, Jenkins, and anything related to DevOps!
+- 🌱 I'm continuously learning and exploring new technologies in the DevSecOps ecosystem.
+- 💬 Ask me about Kubernetes, Docker, Terraform, Jenkins, and anything related to DevSecOps!
 - 📫 How to reach me: [shivams65@gmail.com]
 
 ## Tech Stack
