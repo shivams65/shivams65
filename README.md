@@ -1,4 +1,4 @@
-# Hello, Fellow! ![](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif)
+# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 
 Welcome to my GitHub profile! I'm Shivam Sharma, a passionate DevOps Engineer with a keen interest in automating infrastructure, streamlining development workflows, and ensuring smooth deployment pipelines. 
 
