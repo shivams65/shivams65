@@ -1,6 +1,16 @@
 # Hello, Folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 
-Welcome to my GitHub profile! I'm Shivam Sharma, a passionate DevOps Engineer🖥 with a keen interest in automating infrastructure🏗, streamlining development workflows♾, and ensuring smooth deployment pipelines🚀⚙🖥😎. 
+Welcome to my GitHub profile! I'm Shivam Sharma, a DevSecOps Engineer🖥 passionate about building 🔒 secure and resilient software systems. With expertise in ☁️ cloud-native technologies and a focus on automating infrastructure🏗, , streamlining development workflows♾, and ensuring smooth deployment pipelines with security practices.🚀⚙🖥😎
+
+🔒 Security is my top priority. 
+
+☁️ Leveraging Azure DevOps and GitHub Actions, I automate build, test, and deployment processes, enabling teams to deliver high-quality software rapidly and reliably. Continuous Integration and Continuous Deployment (CI/CD) pipelines are my bread and butter.
+
+🛡️ I specialize in implementing security controls, such as Azure Security Center, Azure Key Vault, and Azure Policy, to protect cloud environments from threats and vulnerabilities. I conduct regular security assessments and audits to ensure compliance with industry standards and regulations.
+
+🚀 Passionate about collaboration and knowledge sharing, I actively contribute to open-source projects on GitHub and engage with the developer community through workshops, meetups, and online forums.
+
+Let's connect and build secure, scalable, and resilient cloud solutions together! Feel free to reach out for collaboration opportunities or just to geek out about all things Azure and DevSecOps. 🚀
 
 ## About Me
 
