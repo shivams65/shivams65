@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm Shivam Sharma, a DevSecOps Engineer🖥 passio
 
 🚀 Passionate about collaboration and knowledge sharing, I actively contribute to open-source projects on GitHub and engage with the developer community through workshops, meetups, and online forums.
 
-Let's connect and build secure, scalable, and resilient cloud solutions together! Feel free to reach out for collaboration opportunities or just to geek out about all things Azure and DevSecOps. 🚀
+Let's connect and build secure, scalable, and resilient cloud solutions together! Feel free to reach out for collaboration opportunities or just to geek out about all things in Cloud and DevSecOps. 🚀
 
 ## About Me
 
