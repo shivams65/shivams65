@@ -26,6 +26,7 @@ Let's connect and build secure, scalable, and resilient cloud solutions together
 - **CI/CD**: Jenkins, GitLab CI/CD, GitHub Actions
 - **Monitoring & Logging**: Prometheus, Grafana
 - **Version Control**: Git
+- **Security**: Sonarqube, Tfsec, Trivy, TruffleHog
 - **Scripting & Automation**: Bash, Python
 - **Configuration Management**: Ansible, Puppet
 - **Cloud Platforms**: AWS, Azure, Google Cloud Platform
